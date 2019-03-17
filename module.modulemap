@@ -1,0 +1,5 @@
+module Cnetcdf [system] {
+  header "/usr/local/Cellar/netcdf/4.6.2_1/include/netcdf.h"
+  link "libnetcdf"
+  export *
+}

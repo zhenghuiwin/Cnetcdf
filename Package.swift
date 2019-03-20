@@ -5,7 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "Cnetcdf",
-    pkgConfig: "netcdf",
+    pkgConfig: "123netcdf",
     dependencies: [
         // Dependencies declare other packages that this package depends on.
         // .package(url: "../Chdf5", from: "0.0.3"),

@@ -1,5 +1,5 @@
 module Cnetcdf [system] {
-  header "netcdf.h"
+  header "shim.h"
   link "netcdf"
   export *
 }
